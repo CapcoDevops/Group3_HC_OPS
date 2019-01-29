@@ -1,2 +1,26 @@
 123456
-333
+
+local --  base -- remote
+dev  ---  dev  --- feature
+
+
+If Vi editor is opening while commit and merging
+
+press i(for insert)
+enter some msg
+press ESC
+enter :wq
+press ENTER
+
+
+stash
+git stash list
+git stash pop
+
+
+Revert
+
+
+tags
+Anotated --  Additional meta data -- git tag-a V1.0 
+Light weight  -- commits -- git tag V1.0
