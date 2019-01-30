@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 1
 2
+=======
+anurag1
+anurag2
+anurag3
+>>>>>>> payment
